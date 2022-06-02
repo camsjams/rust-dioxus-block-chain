@@ -1,4 +1,4 @@
-# rust-flock-of-boids
+# rust-dioxus-block-chain
 
 An exploratory look at Rust web UI library Dioxus - [see video here](https://www.youtube.com/watch?v=KmqExCoR69g)
 
